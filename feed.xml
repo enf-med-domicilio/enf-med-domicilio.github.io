@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Enfermagem e Medicina ao Domicílio</title>
+    <link href="https://enf-med-domicilio.github.io/feed.xml" rel="self" />
+    <link href="https://enf-med-domicilio.github.io" />
+    <updated>2021-02-26T22:31:56+00:00</updated>
+    <author>
+        <name>André Nunes Miranda</name>
+    </author>
+    <id>https://enf-med-domicilio.github.io</id>
+
+    <entry>
+        <title>Quem somos</title>
+        <author>
+            <name>André Nunes Miranda</name>
+        </author>
+        <link href="https://enf-med-domicilio.github.io/quem-somos-2/"/>
+        <id>https://enf-med-domicilio.github.io/quem-somos-2/</id>
+
+        <updated>2021-02-26T22:14:53+00:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Enfermagem e Medicina ao Domicílio Malveira</title>
+        <author>
+            <name>André Nunes Miranda</name>
+        </author>
+        <link href="https://enf-med-domicilio.github.io/medicina-e-enfermagem-ao-domicilio-malveira/"/>
+        <id>https://enf-med-domicilio.github.io/medicina-e-enfermagem-ao-domicilio-malveira/</id>
+
+        <updated>2021-02-26T22:08:19+00:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Como nos contactar</title>
+        <author>
+            <name>André Nunes Miranda</name>
+        </author>
+        <link href="https://enf-med-domicilio.github.io/como-nos-contactar/"/>
+        <id>https://enf-med-domicilio.github.io/como-nos-contactar/</id>
+
+        <updated>2021-02-26T19:05:47+00:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tabela de preços</title>
+        <author>
+            <name>André Nunes Miranda</name>
+        </author>
+        <link href="https://enf-med-domicilio.github.io/tabela-de-precos/"/>
+        <id>https://enf-med-domicilio.github.io/tabela-de-precos/</id>
+
+        <updated>2021-02-26T19:05:34+00:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Serviços</title>
+        <author>
+            <name>André Nunes Miranda</name>
+        </author>
+        <link href="https://enf-med-domicilio.github.io/servicos/"/>
+        <id>https://enf-med-domicilio.github.io/servicos/</id>
+
+        <updated>2021-02-26T22:31:56+00:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Equipa</title>
+        <author>
+            <name>André Nunes Miranda</name>
+        </author>
+        <link href="https://enf-med-domicilio.github.io/quem-somos/"/>
+        <id>https://enf-med-domicilio.github.io/quem-somos/</id>
+
+        <updated>2021-02-26T19:48:35+00:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

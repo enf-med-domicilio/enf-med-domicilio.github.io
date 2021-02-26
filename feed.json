@@ -1,0 +1,97 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Enfermagem e Medicina ao Domicílio",
+    "description": "",
+    "home_page_url": "https://enf-med-domicilio.github.io",
+    "feed_url": "https://enf-med-domicilio.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "André Nunes Miranda"
+    },
+    "items": [
+        {
+            "id": "https://enf-med-domicilio.github.io/quem-somos-2/",
+            "url": "https://enf-med-domicilio.github.io/quem-somos-2/",
+            "title": "Quem somos",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "André Nunes Miranda"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T22:14:53+00:00",
+            "date_modified": "2021-02-26T22:14:53+00:00"
+        },
+        {
+            "id": "https://enf-med-domicilio.github.io/medicina-e-enfermagem-ao-domicilio-malveira/",
+            "url": "https://enf-med-domicilio.github.io/medicina-e-enfermagem-ao-domicilio-malveira/",
+            "title": "Enfermagem e Medicina ao Domicílio Malveira",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "André Nunes Miranda"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T19:48:18+00:00",
+            "date_modified": "2021-02-26T22:08:19+00:00"
+        },
+        {
+            "id": "https://enf-med-domicilio.github.io/como-nos-contactar/",
+            "url": "https://enf-med-domicilio.github.io/como-nos-contactar/",
+            "title": "Como nos contactar",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "André Nunes Miranda"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T19:05:47+00:00",
+            "date_modified": "2021-02-26T19:05:47+00:00"
+        },
+        {
+            "id": "https://enf-med-domicilio.github.io/tabela-de-precos/",
+            "url": "https://enf-med-domicilio.github.io/tabela-de-precos/",
+            "title": "Tabela de preços",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "André Nunes Miranda"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T19:05:34+00:00",
+            "date_modified": "2021-02-26T19:05:34+00:00"
+        },
+        {
+            "id": "https://enf-med-domicilio.github.io/servicos/",
+            "url": "https://enf-med-domicilio.github.io/servicos/",
+            "title": "Serviços",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "André Nunes Miranda"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T19:04:59+00:00",
+            "date_modified": "2021-02-26T22:31:56+00:00"
+        },
+        {
+            "id": "https://enf-med-domicilio.github.io/quem-somos/",
+            "url": "https://enf-med-domicilio.github.io/quem-somos/",
+            "title": "A Equipa",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "André Nunes Miranda"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T19:04:32+00:00",
+            "date_modified": "2021-02-26T19:48:35+00:00"
+        }
+    ]
+}

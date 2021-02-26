@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://enf-med-domicilio.github.io/sitemap.xml
