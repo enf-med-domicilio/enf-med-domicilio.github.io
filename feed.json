@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Enfermagem e Medicina ao Domicílio",
     "description": "",
-    "home_page_url": "https://enf-med-domicilio.github.io",
-    "feed_url": "https://enf-med-domicilio.github.io/feed.json",
+    "home_page_url": "https://saudeaodomiciliomafra.tk",
+    "feed_url": "https://saudeaodomiciliomafra.tk/feed.json",
     "user_comment": "",
     "author": {
         "name": "André Nunes Miranda"
     },
     "items": [
         {
-            "id": "https://enf-med-domicilio.github.io/quem-somos-2/",
-            "url": "https://enf-med-domicilio.github.io/quem-somos-2/",
+            "id": "https://saudeaodomiciliomafra.tk/quem-somos-2/",
+            "url": "https://saudeaodomiciliomafra.tk/quem-somos-2/",
             "title": "Quem somos",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -24,8 +24,8 @@
             "date_modified": "2021-02-26T22:14:53+00:00"
         },
         {
-            "id": "https://enf-med-domicilio.github.io/medicina-e-enfermagem-ao-domicilio-malveira/",
-            "url": "https://enf-med-domicilio.github.io/medicina-e-enfermagem-ao-domicilio-malveira/",
+            "id": "https://saudeaodomiciliomafra.tk/medicina-e-enfermagem-ao-domicilio-malveira/",
+            "url": "https://saudeaodomiciliomafra.tk/medicina-e-enfermagem-ao-domicilio-malveira/",
             "title": "Enfermagem e Medicina ao Domicílio Malveira",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -38,8 +38,8 @@
             "date_modified": "2021-02-26T22:08:19+00:00"
         },
         {
-            "id": "https://enf-med-domicilio.github.io/como-nos-contactar/",
-            "url": "https://enf-med-domicilio.github.io/como-nos-contactar/",
+            "id": "https://saudeaodomiciliomafra.tk/como-nos-contactar/",
+            "url": "https://saudeaodomiciliomafra.tk/como-nos-contactar/",
             "title": "Como nos contactar",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -52,8 +52,8 @@
             "date_modified": "2021-02-26T19:05:47+00:00"
         },
         {
-            "id": "https://enf-med-domicilio.github.io/tabela-de-precos/",
-            "url": "https://enf-med-domicilio.github.io/tabela-de-precos/",
+            "id": "https://saudeaodomiciliomafra.tk/tabela-de-precos/",
+            "url": "https://saudeaodomiciliomafra.tk/tabela-de-precos/",
             "title": "Tabela de preços",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -66,8 +66,8 @@
             "date_modified": "2021-02-26T19:05:34+00:00"
         },
         {
-            "id": "https://enf-med-domicilio.github.io/servicos/",
-            "url": "https://enf-med-domicilio.github.io/servicos/",
+            "id": "https://saudeaodomiciliomafra.tk/servicos/",
+            "url": "https://saudeaodomiciliomafra.tk/servicos/",
             "title": "Serviços",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -80,8 +80,8 @@
             "date_modified": "2021-02-26T22:31:56+00:00"
         },
         {
-            "id": "https://enf-med-domicilio.github.io/quem-somos/",
-            "url": "https://enf-med-domicilio.github.io/quem-somos/",
+            "id": "https://saudeaodomiciliomafra.tk/quem-somos/",
+            "url": "https://saudeaodomiciliomafra.tk/quem-somos/",
             "title": "A Equipa",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
