@@ -13,7 +13,6 @@
             "id": "https://saudeaodomiciliomafra.tk/quem-somos-2/",
             "url": "https://saudeaodomiciliomafra.tk/quem-somos-2/",
             "title": "Quem somos",
-            "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "André Nunes Miranda"
@@ -27,7 +26,6 @@
             "id": "https://saudeaodomiciliomafra.tk/medicina-e-enfermagem-ao-domicilio-malveira/",
             "url": "https://saudeaodomiciliomafra.tk/medicina-e-enfermagem-ao-domicilio-malveira/",
             "title": "Enfermagem e Medicina ao Domicílio Malveira",
-            "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "André Nunes Miranda"
@@ -41,21 +39,19 @@
             "id": "https://saudeaodomiciliomafra.tk/como-nos-contactar/",
             "url": "https://saudeaodomiciliomafra.tk/como-nos-contactar/",
             "title": "Como nos contactar",
-            "summary": " ",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    Pode-nos contactar pelos seguintes meios:\n  </p>\n\n  <ul>\n    <li>Telemóvel -&nbsp;</li><li>Whatsapp -&nbsp;</li><li>Email -&nbsp;</li><li>Facebook -&nbsp;</li>\n  </ul>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "André Nunes Miranda"
             },
             "tags": [
             ],
             "date_published": "2021-02-26T19:05:47+00:00",
-            "date_modified": "2021-02-26T19:05:47+00:00"
+            "date_modified": "2021-02-26T23:53:00+00:00"
         },
         {
             "id": "https://saudeaodomiciliomafra.tk/tabela-de-precos/",
             "url": "https://saudeaodomiciliomafra.tk/tabela-de-precos/",
             "title": "Tabela de preços",
-            "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "André Nunes Miranda"
@@ -69,7 +65,6 @@
             "id": "https://saudeaodomiciliomafra.tk/servicos/",
             "url": "https://saudeaodomiciliomafra.tk/servicos/",
             "title": "Serviços",
-            "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "André Nunes Miranda"
@@ -83,7 +78,6 @@
             "id": "https://saudeaodomiciliomafra.tk/quem-somos/",
             "url": "https://saudeaodomiciliomafra.tk/quem-somos/",
             "title": "A Equipa",
-            "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "André Nunes Miranda"
